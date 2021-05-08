@@ -25,3 +25,21 @@ S
 #src/components/DonutChart/index.tsx,1/a/1a83fb0e5bc851578f86d0e9fe691871e7c40d19
 ;
 src/App.tsx,8/3/835da56f32df714aaed6285a5b7fc3a7807851e4
+H
+src/pages/Home/index.tsx,9/3/939b21a7f2d23f548a573a6c3857899762b55197
+F
+src/react-app-env.d.ts,4/a/4a7b99bdbee5792679d347b6474463bf5e14b66d
+M
+src/pages/Dashboard/index.tsx,7/b/7b31ea001217880e5f5e6f447e53b3da99622fc7
+C
+src/types/seller.ts,7/f/7f9eb0d30c9d7038558b46057a87c818f0769a2b
+>
+src/Routes.tsx,9/2/921abf53e7f43a2fc996403f68553e16ab711516
+C
+src/utils/format.ts,a/2/a2e5350d29da1cab5880a14fb5f11a276f65d67e
+A
+src/types/sale.ts,2/1/2126c0f02ef2e99c1f78bc24aefbada2b07a6a39
+S
+#src/components/Pagination/index.tsx,5/c/5c7c931474c15501894a92fae734e0a24df3a567
+E
+src/utils/requests.ts,c/c/cc499f3cdabc8e62b6ab0a64eb14b3af08d2df84
